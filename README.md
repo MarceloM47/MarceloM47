@@ -73,16 +73,6 @@
 
 <br/>  
 
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=gb3q9l1m6um9i2wz2bluzlxbs&cover_image=true&theme=compact&show_offline=false" /></div>  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=MarceloM47&&style=flat-square" align="center" />
 </div>  
