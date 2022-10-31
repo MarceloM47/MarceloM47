@@ -1,9 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">My name is Marcelo and I am a frontend developer. 👨‍💻 </div>  
+### <div align="center"><h1>My name is Marcelo and I am a frontend developer. 👨‍💻 </h1></div>  
   
 
 - 🔭 I am constantly learning  
