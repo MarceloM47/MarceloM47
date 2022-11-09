@@ -3,6 +3,7 @@ Hi Marcelo Morinigo here 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=33E2F7&width=435&lines=Frontend+Developer+%F0%9F%92%BB;Backend+Developer+in+process+%F0%9F%8E%AF;I+like+Networks+and+Cybersecurity+%F0%9F%93%A1;Bachelor+of+Computer+Science+%F0%9F%93%9A)](https://git.io/typing-svg)
 </h1>
+
 ## Connect with me  
 <div align="center">
 <a href="https://linkedin.com/in/marcelo-morinigo-74808b213" target="_blank">
@@ -14,10 +15,10 @@ Hi Marcelo Morinigo here 👋
 <br>
 <br>
 
-<img align="left"  src="https://github-readme-stats.vercel.app/api?username=iJCode1&show_icons=true&locale=en&theme=midnight-purple&hide_border=true&bg_color=1d1f21&title_color=ffffff&icon_color=2bbc8a](https://github-readme-stats.vercel.app/api?username=MarceloM47&show_icons=true&locale=en&theme=midnight-purple&hide_border=true&bg_color=1d1f21&title_color=ffffff&icon_color=2bbc8a)" alt="MarceloM47"  width="400px"/><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloM47&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=1d1f21&title_color=ffffff&icon_color=2bbc8a" height="160px"/>
+<img align="left"  src="https://github-readme-stats.vercel.app/api?username=MarceloM47&show_icons=true&locale=en&theme=midnight-purple&hide_border=true&bg_color=1d1f21&title_color=ffffff&icon_color=2bbc8a](https://github-readme-stats.vercel.app/api?username=MarceloM47&show_icons=true&locale=en&theme=midnight-purple&hide_border=true&bg_color=1d1f21&title_color=ffffff&icon_color=2bbc8a)" alt="MarceloM47"  width="400px"/><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloM47&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=1d1f21&title_color=ffffff&icon_color=2bbc8a" height="160px"/>
 </h3>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=MarceloM47)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=MarceloM47&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 - 🔭 I am constantly learning  
   
@@ -77,15 +78,3 @@ Hi Marcelo Morinigo here 👋
   
 
 <br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MarceloM47&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=MarceloM47&&style=flat-square" align="center" />
-</div>  
-
-<br />
