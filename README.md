@@ -1,7 +1,7 @@
 <h1 align="center">
 Hi Marcelo Morinigo here 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3DF6F7&width=435&lines=Frontend+Developer;Backend+Developer+in+progress;Passionate+about+networks+and+cybersecurity;Bachelor's+degree+student+in+computer+science)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3DF6F7&width=435&lines=Frontend+Developer;Backend+Developer+in+progress;Studying+Networks+and+cybersecurity;Bachelor+of+Computer+Science)](https://git.io/typing-svg)
 </h1>
 <h2 align="center">Follow me on Twitter
 
@@ -16,9 +16,6 @@ Hi Marcelo Morinigo here 👋
 </h3>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=MarceloM47)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-### <div align="center"><h1>My name is Marcelo and I am a frontend developer. 👨‍💻 </h1></div>  
-  
 
 - 🔭 I am constantly learning  
   
