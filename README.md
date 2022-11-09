@@ -1,7 +1,7 @@
 <h1 align="center">
 Hi Marcelo Morinigo here 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&color=%23997FFF&lines=Computer+Systems+Engineering+Student;Frontend+Developer+in+process+%F0%9F%92%BB;I+love+learning+new+things+every+day)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3DF6F7&width=435&lines=Frontend+Developer;Backend+Developer+in+progress;Passionate+about+networks+and+cybersecurity;Bachelor's+degree+student+in+computer+science)](https://git.io/typing-svg)
 </h1>
 <h2 align="center">Follow me on Twitter
 
