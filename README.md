@@ -11,10 +11,6 @@ Hi Marcelo Morinigo here 👋
 <img align="left"  src="https://github-readme-stats.vercel.app/api?username=MarceloM47&show_icons=true&locale=en&hide_border=true&bg_color=1d1f21&title_color=ffffff&icon_color=2bbc8a" alt="MarceloM47"  width="400px"/><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloM47&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=1d1f21&title_color=ffffff&icon_color=2bbc8a" height="160px"/>
 </h3>
 
-<br/>  
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=MarceloM47&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 - 🔭 I am constantly learning  
   
 
