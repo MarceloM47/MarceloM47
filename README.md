@@ -13,18 +13,6 @@ Hi Marcelo Morinigo here 👋
 
 <br/> 
 
-- 🔭 I am constantly learning  
-  
-
-- 🌱 I’m currently learning Ruby on rails and React  
-  
-
-- ⚡ Fun fact: I like playing the guitar 🎸  
-  
-
-<br/>  
-
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
