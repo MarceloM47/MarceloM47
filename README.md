@@ -4,20 +4,19 @@ Hi Marcelo Morinigo here 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=33E2F7&width=435&lines=Frontend+Developer+%F0%9F%92%BB;Backend+Developer+in+process+%F0%9F%8E%AF;I+like+Networks+and+Cybersecurity+%F0%9F%93%A1;Bachelor+of+Computer+Science+%F0%9F%93%9A)](https://git.io/typing-svg)
 </h1> 
 
-<h3 align="center">📊 My activity on GitHub
+<h3 align="center">📊 My activity on GitHub</h3>
 <br>
 <br>
   
 <img align="left"  src="https://github-readme-stats.vercel.app/api?username=MarceloM47&show_icons=true&locale=en&hide_border=true&bg_color=1d1f21&title_color=ffffff&icon_color=2bbc8a" alt="MarceloM47"  width="400px"/><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloM47&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=1d1f21&title_color=ffffff&icon_color=2bbc8a" height="160px"/>
-</h3>
 
-<br/> 
 
-## My Skill Set  
+<br/>
+
+## My Skill Set 
+<br/>
+<br/>
 <table><tr><td valign="top" width="33%">
-
-
-
 
 ### Frontend  
 <div align="center">  
